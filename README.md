@@ -1,2 +1,2 @@
 # TryHackMe
-This repo has writeups og TryHackMe Rooms
+This repo has writeups of TryHackMe Rooms
